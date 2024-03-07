@@ -1,0 +1,2 @@
+We were asked to create a graphics project in c++ that would graphically display "CSCE" in a random color using arrays in the upper half, and then were asked to display 
+"UNT" in random colors while using vectors in the lower half. Overall very time extensive project as this was my first use of graphics in C++.
